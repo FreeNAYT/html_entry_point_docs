@@ -1,2 +1,2 @@
-# FreeNAYT_HTML_Docs
+# HTML Unique Entry Point for documentations
 Static HTML Pages to describe my standards, architecture, projects...
